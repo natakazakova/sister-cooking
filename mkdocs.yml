@@ -102,10 +102,39 @@ nav:
     - breakfast/creppe.md
     - breakfast/pancakes.md
     - breakfast/ovsyanushek.md
-  - Закуски: snacks/index.md
-  - Супы: soups/index.md
+  - Закуски: 
+    - snacks/index.md
+    - snacks/humus.md
+  - Супы: 
+    - soups/index.md
+    - soups/borsch.md
+    - soups/buckwheat-soup.md
+    - soups/chorba.md
+    - soups/lapsha.md
+    - soups/lental-soup.md
+    - soups/rice-soup.md
+    - soups/shi.md
+    - soups/solyanka.md
   - Горячее: 
     - main-course/index.md
     - main-course/buckweat-with-carrot-and-onion.md
-  - Десерты: dessert/index.md
-  - Выпечка: pastry/index.md
+  - Десерты: 
+    - dessert/index.md
+    - dessert/brauni.md
+    - dessert/orange-cake.md
+    - dessert/tiramisu.md
+  - Выпечка: 
+    - pastry/index.md
+  - Напитки:
+    - drinks/index.md
+    - drinks/coffee.md
+    - drinks/gluhwein-rot.md
+    - drinks/gluhwein-weiss.md
+    - drinks/home-limonade.md
+    - drinks/tea.md
+  - Советы:
+    - advices/index.md
+    - advices/clear-vegetables.md
+    - advices/equipment.md
+    - advices/spices.md
+    - advices/supplies.md
