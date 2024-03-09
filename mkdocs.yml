@@ -1,0 +1,111 @@
+site_name: Готовим быстро и легко
+copyright: "&copy; 2024 Natalia Kazakova"
+theme:
+  name: material
+  logo: favicon/cat-logo.png #fontawesome/solid/bowl-food
+  favicon: favicon/cat.png
+  font:
+    text: Montserrat
+  features:
+    - search.suggest
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - navigation.indexes
+    - navigation.footer
+  language: ru
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+plugins:
+  - search
+  - tags
+  - glightbox
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html 
+  - smarty
+  - tables
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys # usage ++ctrl+alt+delete++
+  - pymdownx.mark # usage ==mark me==
+  - pymdownx.tilde # usage ~~Delete me~~
+  - pymdownx.tabbed # usage https://facelessuser.github.io/pymdown-extensions/extensions/tabbed/
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+    feedback:
+      title: Вам понравился рецепт?
+      ratings:
+        - icon: material/heart
+          name: Да, понравилось
+          data: 1
+          note: >-
+            Спасибо за отзыв!
+        - icon: material/heart-broken
+          name: Рецепт стоит улучшить
+          data: 0
+          note: >- 
+            Спасибо за отзыв!
+  social:
+    - icon: fontawesome/brands/x-twitter 
+      link: https://twitter.com/vervedel
+  consent:
+    title: Согласие на использование файлов cookie 
+    description: >- 
+      Мы используем файлы cookie для распознавания ваших повторных посещений и предпочтений, а также
+      для оценки эффективности нашего сайта и того, находят ли пользователи то, что ищут. 
+      С вашего согласия вы помогаете нам сделать наш сайт лучше.
+    actions:
+      - accept
+      - reject
+      - manage 
+
+nav:
+  - Завтраки: 
+    - breakfast/index.md
+    - breakfast/oat-porridge.md
+    - breakfast/polenta.md
+    - breakfast/fried-eggs.md
+    - breakfast/omelet.md
+    - breakfast/scrambled-eggs.md
+    - breakfast/pashot.md
+    - breakfast/toast-wth-avocado-and-pashot.md
+    - breakfast/toast-with-proshuto-and-dried-tomatos.md
+    - breakfast/syrniki.md
+    - breakfast/cottage-cheese-casserole.md
+    - breakfast/creppe.md
+    - breakfast/pancakes.md
+    - breakfast/ovsyanushek.md
+  - Закуски: snacks/index.md
+  - Супы: soups/index.md
+  - Горячее: 
+    - main-course/index.md
+    - main-course/buckweat-with-carrot-and-onion.md
+  - Десерты: dessert/index.md
+  - Выпечка: pastry/index.md
