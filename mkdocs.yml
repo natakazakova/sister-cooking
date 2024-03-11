@@ -1,9 +1,9 @@
-site_name: Готовим быстро и легко
-copyright: "&copy; 2024 Natalia Kazakova"
+site_name: Сестра готовит – быстрые и интуитивные рецепты
+copyright: "&copy; 2024 Сестра готовит"
 theme:
   name: material
-  logo: favicon/cat-logo.png #fontawesome/solid/bowl-food
-  favicon: favicon/cat.png
+  logo: images/favicon/sister-logo.png
+  favicon: images/favicon/fav.ico
   font:
     text: Montserrat
   features:
@@ -33,6 +33,10 @@ plugins:
   - search
   - tags
   - glightbox
+  - blog:
+      post_date_format: medium
+      post_url_format: "{file}"
+      post_excerpt: required
 markdown_extensions:
   - admonition
   - attr_list
@@ -60,15 +64,15 @@ extra:
     provider: google
     property: G-XXXXXXXXXX
     feedback:
-      title: Вам понравился рецепт?
+      title: Понравилось?
       ratings:
         - icon: material/heart
-          name: Да, понравилось
+          name: Да, всё супер!
           data: 1
           note: >-
             Спасибо за отзыв!
         - icon: material/heart-broken
-          name: Рецепт стоит улучшить
+          name: Есть что улучшить
           data: 0
           note: >- 
             Спасибо за отзыв!
@@ -87,21 +91,24 @@ extra:
       - manage 
 
 nav:
-  - Завтраки: 
+  - Завтраки:
     - breakfast/index.md
-    - breakfast/oat-porridge.md
-    - breakfast/polenta.md
-    - breakfast/fried-eggs.md
-    - breakfast/omelet.md
-    - breakfast/scrambled-eggs.md
-    - breakfast/pashot.md
+    - Блюда из яиц:
+      - breakfast/fried-eggs.md
+      - breakfast/omelet.md
+      - breakfast/scrambled-eggs.md
+      - breakfast/pashot.md
+    - Блины и оладьи:   
+      - breakfast/creppe.md
+      - breakfast/pancakes.md
+      - breakfast/ovsyanushek.md
+    - Каши:
+      - breakfast/oat-porridge.md
+      - breakfast/polenta.md
     - breakfast/toast-wth-avocado-and-pashot.md
     - breakfast/toast-with-proshuto-and-dried-tomatos.md
     - breakfast/syrniki.md
     - breakfast/cottage-cheese-casserole.md
-    - breakfast/creppe.md
-    - breakfast/pancakes.md
-    - breakfast/ovsyanushek.md
   - Закуски: 
     - snacks/index.md
     - snacks/humus.md
@@ -132,9 +139,5 @@ nav:
     - drinks/gluhwein-weiss.md
     - drinks/home-limonade.md
     - drinks/tea.md
-  - Советы:
-    - advices/index.md
-    - advices/clear-vegetables.md
-    - advices/equipment.md
-    - advices/spices.md
-    - advices/supplies.md
+  - Блог:
+    - blog/index.md
