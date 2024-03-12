@@ -74,6 +74,6 @@ hide:
 
     Советы, которые могут оказаться полезным начинающим кулинарам.
 
-    [:octicons-arrow-right-24: Смотреть рецепты](blog/index.md)
+    [:octicons-arrow-right-24: Смотреть статьи](blog/index.md)
 
 </div>
