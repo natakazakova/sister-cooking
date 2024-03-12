@@ -1,4 +1,4 @@
-site_name: Сестра готовит – быстрые и интуитивные рецепты
+site_name: Сестра готовит
 copyright: "&copy; 2024 Сестра готовит"
 theme:
   name: material
@@ -13,6 +13,8 @@ theme:
     - navigation.path
     - navigation.indexes
     - navigation.footer
+    - navigation.top
+    - navigation.sections
   language: ru
   palette:
     # Palette toggle for light mode
@@ -109,9 +111,6 @@ nav:
     - breakfast/toast-with-proshuto-and-dried-tomatos.md
     - breakfast/syrniki.md
     - breakfast/cottage-cheese-casserole.md
-  - Закуски: 
-    - snacks/index.md
-    - snacks/humus.md
   - Супы: 
     - soups/index.md
     - soups/borsch.md
@@ -125,6 +124,10 @@ nav:
   - Горячее: 
     - main-course/index.md
     - main-course/buckweat-with-carrot-and-onion.md
+    - main-course/pizza.md
+  - Закуски: 
+    - snacks/index.md
+    - snacks/humus.md
   - Десерты: 
     - dessert/index.md
     - dessert/brauni.md
@@ -132,6 +135,9 @@ nav:
     - dessert/tiramisu.md
   - Выпечка: 
     - pastry/index.md
+    - pastry/hleb.md
+    - pastry/pirozhki.md
+    - pastry/vatrushki.md
   - Напитки:
     - drinks/index.md
     - drinks/coffee.md

@@ -1,15 +1,13 @@
 ---
 title: Приправы
-date: 2024-03-12
+date: 2024-02-25
 slug: spices
 description: >
   О приправах
-categories:
-  - General
 tags:
-  - Базовые знания
+  - Секреты и хитрости
 categories:
-  - Базовые знания
+  - Секреты и хитрости
 ---
 
 # Приправы
