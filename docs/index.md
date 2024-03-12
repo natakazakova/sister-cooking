@@ -60,7 +60,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](pastry/index.md)
 
--   :coffee:{ .lg .middle } _[Напитки](drinks/index.md "Морсы, компоты, лимонады и еще куча всего")_
+-   :coffee:{ .lg .middle } _[Напитки](drinks/index.md "Морсы, компоты, лимонады и другие напитки")_
 
     ---
 
