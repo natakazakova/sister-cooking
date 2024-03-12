@@ -12,7 +12,7 @@ hide:
  
 <div class="grid cards" markdown>
 
--   :shallow_pan_of_food:{ .lg .middle } _[Завтраки](breakfast/index.md)_
+-   :shallow_pan_of_food:{ .lg .middle } _[Завтраки](breakfast/index.md "Начни день со вкусной еды")_
 
     ---
 
@@ -20,7 +20,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](breakfast/index.md)
 
--   :bowl_with_spoon:{ .lg .middle } _[Супы](soups/index.md)_
+-   :bowl_with_spoon:{ .lg .middle } _[Супы](soups/index.md "Что может быть лучше тарелочки супа")_
 
     ---
 
@@ -28,7 +28,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](soups/index.md)
 
--   :cut_of_meat:{ .lg .middle } _[Горячее](main-course/index.md)_
+-   :cut_of_meat:{ .lg .middle } _[Горячее](main-course/index.md "Горячее не бывает")_
 
     ---
 
@@ -36,7 +36,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](main-course/index.md)
 
--   :stuffed_flatbread:{ .lg .middle } _[Закуски](snacks/index.md)_
+-   :stuffed_flatbread:{ .lg .middle } _[Закуски](snacks/index.md "Что может быть лучше вкусных перекусов под кино и настолки")_
 
     ---
 
@@ -44,7 +44,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](snacks/index.md)
 
--   :moon_cake:{ .lg .middle } _[Десерты](dessert/index.md)_
+-   :moon_cake:{ .lg .middle } _[Десерты](dessert/index.md "Ммм, пальчики оближешь")_
 
     ---
 
@@ -52,7 +52,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](dessert/index.md)
 
--   :croissant:{ .lg .middle } _[Выпечка](pastry/index.md)_
+-   :croissant:{ .lg .middle } _[Выпечка](pastry/index.md "Ах эти румяные и сладкие булочки")_
 
     ---
 
@@ -60,7 +60,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](pastry/index.md)
 
--   :coffee:{ .lg .middle } _[Напитки](drinks/index.md)_
+-   :coffee:{ .lg .middle } _[Напитки](drinks/index.md "Морсы, компоты, лимонады и еще куча всего")_
 
     ---
 
@@ -68,7 +68,7 @@ hide:
 
     [:octicons-arrow-right-24: Смотреть рецепты](drinks/index.md)
 
--   :pencil:{ .lg .middle } _[Блог](blog/index.md)_
+-   :pencil:{ .lg .middle } _[Блог](blog/index.md "Всякие полезности")_
 
     ---
 
