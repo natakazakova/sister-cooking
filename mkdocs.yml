@@ -72,7 +72,7 @@ extra_css:
 extra:
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-5WM9E291CF
     feedback:
       title: Понравилось?
       ratings:
