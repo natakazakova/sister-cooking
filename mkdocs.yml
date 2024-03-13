@@ -25,6 +25,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
+      accent: teal
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -32,6 +33,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: teal
+      accent: teal
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -65,6 +67,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+extra_css:
+  - stylesheets/extra.css
 extra:
   analytics:
     provider: google
