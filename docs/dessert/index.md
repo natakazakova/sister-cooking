@@ -4,4 +4,5 @@ hide:
 ---
 # Десерты
 
-todo
+
+[Перейти в рецепты](brauni.md){ .md-button .md-button--primary }

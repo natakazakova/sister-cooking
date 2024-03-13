@@ -5,4 +5,4 @@ hide:
 ---
 # Выпечка
 
-todo
+[Перейти в рецепты](hleb.md){ .md-button .md-button--primary }

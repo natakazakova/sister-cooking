@@ -4,4 +4,4 @@ hide:
 ---
 # Супы
 
-todo
+[Перейти в рецепты](borsch.md){ .md-button .md-button--primary }

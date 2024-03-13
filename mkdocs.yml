@@ -1,6 +1,5 @@
 site_name: Сестра готовит
 copyright: "&copy; 2024 Сестра готовит"
-edit_uri: edit/main/docs/
 theme:
   name: material
   logo: images/favicon/sister-logo.png
