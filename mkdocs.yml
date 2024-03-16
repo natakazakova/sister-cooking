@@ -37,6 +37,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  custom_dir: overrides
 plugins:
   - search
   - tags
@@ -115,10 +116,14 @@ nav:
     - Каши:
       - breakfast/oat-porridge.md
       - breakfast/polenta.md
-    - breakfast/toast-wth-avocado-and-pashot.md
-    - breakfast/toast-with-proshutto-and-dried-tomatos.md
-    - breakfast/syrniki.md
-    - breakfast/cottage-cheese-casserole.md
+    - Из творога:
+      - breakfast/syrniki.md
+      - breakfast/cottage-cheese-casserole.md
+      - breakfast/lenivye-vareniki.md
+    - Бутерброды и тосты:
+      - breakfast/cheese-toast.md
+      - breakfast/toast-with-avocado-and-pashot.md
+      - breakfast/toast-with-proshutto-and-dried-tomatos.md
   - Супы: 
     - soups/index.md
     - soups/borsch.md
