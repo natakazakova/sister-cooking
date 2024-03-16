@@ -7,7 +7,12 @@ description:
 ---
 # Сырники
 
-Описание рецепта
+<figure markdown="span">
+  ![Сырники с джемом](images/syrniki.jpg)
+  <figcaption>Сырники с джемом</figcaption>
+</figure>
+
+Сырники todo
 
 ## Инвентарь
 
