@@ -7,7 +7,10 @@ description:
 ---
 # Панкейки
 
-Описание рецепта
+<!-- <figure markdown="span">
+  ![Тонкие блинчики](images/pancakes.jpg)
+  <figcaption>Тонкие блинчики</figcaption>
+</figure> -->
 
 ## Инвентарь
 

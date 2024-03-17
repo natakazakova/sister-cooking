@@ -7,7 +7,10 @@ description:
 ---
 # Творожная запеканка
 
-Описание рецепта
+<figure markdown="span">
+  ![Творожная запеканка](images/casserole.jpg)
+  <figcaption>Творожная запеканка</figcaption>
+</figure>
 
 ## Инвентарь
 

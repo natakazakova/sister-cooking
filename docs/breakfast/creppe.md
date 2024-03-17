@@ -7,8 +7,10 @@ description:
 ---
 # Тонкие блинчики
 
-Описание рецепта
-
+<figure markdown="span">
+  ![Тонкие блинчики](images/creppe.jpg)
+  <figcaption>Тонкие блинчики</figcaption>
+</figure>
 ## Инвентарь
 
 - todo
