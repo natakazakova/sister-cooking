@@ -4,10 +4,6 @@ theme:
   name: material
   logo: assets/favicon/sister-logo.png
   favicon: assets/favicon/fav.ico
-  icon:
-    repo: fontawesome/brands/git-alt
-    edit: material/pencil
-    view: material/eye
   font:
     text: Montserrat
   features:
@@ -90,6 +86,8 @@ extra:
   social:
     - icon: fontawesome/brands/x-twitter 
       link: https://twitter.com/vervedel
+    - icon: fontawesome/brands/git-alt
+      link: https://github.com/natakazakova/sister-cooking
   consent:
     title: Согласие на использование файлов cookie 
     description: >- 
@@ -128,6 +126,7 @@ nav:
       - breakfast/toast-with-proshutto-and-dried-tomatos.md
   - Супы: 
     - soups/index.md
+    - soups/bouillon.md
     - soups/borsch.md
     - soups/buckwheat-soup.md
     - soups/chorba.md
