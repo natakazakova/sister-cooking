@@ -86,7 +86,7 @@ extra:
   social:
     - icon: fontawesome/brands/x-twitter 
       link: https://twitter.com/vervedel
-    - icon: fontawesome/brands/git-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/natakazakova/sister-cooking
   consent:
     title: Согласие на использование файлов cookie 
