@@ -112,6 +112,7 @@ nav:
     - Блины и оладьи:   
       - breakfast/creppe.md
       - breakfast/pancakes.md
+      - breakfast/banana-pancakes.md
       - breakfast/ovsyanushek.md
     - Каши:
       - breakfast/oat-porridge.md
@@ -122,6 +123,7 @@ nav:
       - breakfast/lenivye-vareniki.md
     - Бутерброды и тосты:
       - breakfast/cheese-toast.md
+      - breakfast/grenki.md
       - breakfast/toast-with-avocado-and-pashot.md
       - breakfast/toast-with-proshutto-and-dried-tomatos.md
   - Супы: 

@@ -7,7 +7,10 @@ description:
 ---
 # Омлет
 
-Описание рецепта
+<figure markdown="span">
+  ![Омлет с сосисками и зеленым горошком](images/omelet.jpg)
+  <figcaption>Омлет с сосисками и зеленым горошком</figcaption>
+</figure>
 
 ## Инвентарь
 
