@@ -1,4 +1,5 @@
 ---
+draft: true 
 title: Как почистить овощи
 date: 2024-03-09
 description: >

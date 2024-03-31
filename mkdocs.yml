@@ -109,6 +109,7 @@ nav:
       - breakfast/pashot.md
     - Блины и оладьи:   
       - breakfast/creppe.md
+      - breakfast/oladji.md
       - breakfast/pancakes.md
       - breakfast/banana-pancakes.md
       - breakfast/ovsyanushek.md
@@ -147,6 +148,8 @@ nav:
     - snacks/vyalenoe-myaso.md
   - Десерты: 
     - dessert/index.md
+    - dessert/beze.md
+    - dessert/grafskie-razvaliny.md
     - dessert/brauni.md
     - dessert/orange-cake.md
     - dessert/tiramisu.md

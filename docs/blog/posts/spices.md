@@ -1,4 +1,5 @@
 ---
+draft: true 
 title: Приправы
 date: 2024-02-25
 slug: spices
