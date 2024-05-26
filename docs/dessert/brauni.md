@@ -7,6 +7,11 @@ description:
 ---
 # Брауни
 
+<!-- <figure markdown="span">
+  ![Готовое безе](images/brauni.jpg)
+  <figcaption>Готовое безе</figcaption>
+</figure> -->
+
 Описание рецепта
 
 ## Инвентарь

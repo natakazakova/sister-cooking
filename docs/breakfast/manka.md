@@ -2,14 +2,14 @@
 tags:
   - 15 минут
   - На двоих
-  - Миксер
+  - Без техники
 description:
 ---
-# Тирамису
+# Манная каша
 
 <figure markdown="span">
-  ![Тирамису](images/tiramisu.jpg)
-  <figcaption>Тирамису</figcaption>
+  ![Манная каша](images/manka.jpg)
+  <figcaption>Манная каша</figcaption>
 </figure>
 
 Описание рецепта
@@ -27,3 +27,5 @@ description:
 
 1. todo
 1. todo
+
+Приятного аппетита!
