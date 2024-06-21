@@ -7,7 +7,10 @@ description:
 ---
 # Борщ
 
-Описание рецепта
+<figure markdown="span">
+  ![Борщ](images/borsch.jpeg)
+  <figcaption>Борщ</figcaption>
+</figure>
 
 ## Инвентарь
 
