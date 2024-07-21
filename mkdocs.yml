@@ -1,6 +1,11 @@
+# Project information
 site_name: Сестра готовит
 site_url: https://sister.cooking
+site_description: >-
+  Сестра готовит - быстрые и вкусные рецепты от сестры к брату
 copyright: "&copy; 2024 Сестра готовит"
+
+# Configuration
 theme:
   name: material
   logo: assets/favicon/sister-logo.png
@@ -100,6 +105,7 @@ extra:
       - reject
       - manage 
 
+# Navigation
 nav:
   - Завтраки:
     - breakfast/index.md
