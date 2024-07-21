@@ -117,6 +117,7 @@ nav:
     - Блины и оладьи:   
       - breakfast/creppe.md
       - breakfast/oladji.md
+      # - breakfast/pandakes.md
       - breakfast/banana-pancakes.md
       - breakfast/ovsyanushek.md
     - Каши:
@@ -126,6 +127,7 @@ nav:
     - Из творога:
       - breakfast/syrniki.md
       - breakfast/cottage-cheese-casserole.md
+      # - breakfast/lenivye-vareniki.md
     - Бутерброды и тосты:
       - breakfast/cheese-toast.md
       - breakfast/grenki.md
@@ -135,18 +137,18 @@ nav:
     - soups/index.md
     - soups/bouillon.md
     - soups/borsch.md
-    - soups/buckwheat-soup.md
-    - soups/chorba.md
-    - soups/lapsha.md
-    - soups/lental-soup.md
-    - soups/rice-soup.md
+    # - soups/buckwheat-soup.md
+    # - soups/chorba.md
+    # - soups/lapsha.md
+    # - soups/lental-soup.md
+    # - soups/rice-soup.md
     - soups/shi.md
-    - soups/solyanka.md
+    # - soups/solyanka.md
   - Горячее: 
     - main-course/index.md
     - main-course/buckweat-with-carrot-and-onion.md
-    - main-course/pizza.md
-    - main-course/khachapuri-na-skovorode.md
+    # - main-course/pizza.md
+    # - main-course/khachapuri-na-skovorode.md
     - main-course/funchoza-and-chicken.md
   - Закуски: 
     - snacks/index.md
@@ -158,20 +160,20 @@ nav:
     - dessert/sharlotka.md
     - dessert/keks-in-microwave.md
     - dessert/grafskie-razvaliny.md
-    - dessert/brauni.md
-    - dessert/orange-cake.md
+    # - dessert/brauni.md
+    # - dessert/orange-cake.md
     - dessert/tiramisu.md
-  - Выпечка: 
-    - pastry/index.md
-    - pastry/hleb.md
-    - pastry/pirozhki.md
-    - pastry/vatrushki.md
+  # - Выпечка: 
+  #   - pastry/index.md
+  #   - pastry/hleb.md
+  #   - pastry/pirozhki.md
+  #   - pastry/vatrushki.md
   - Напитки:
     - drinks/index.md
     - drinks/coffee.md
-    - drinks/gluhwein-rot.md
-    - drinks/gluhwein-weiss.md
-    - drinks/home-limonade.md
-    - drinks/tea.md
+    # - drinks/gluhwein-rot.md
+    # - drinks/gluhwein-weiss.md
+    # - drinks/home-limonade.md
+    # - drinks/tea.md
   - Блог:
     - blog/index.md
