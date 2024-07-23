@@ -4,4 +4,4 @@ hide:
 ---
 # Напитки
 
-[Перейти в напитки](tea.md){ .md-button .md-button--primary }
+[Перейти в напитки](tea/index.md){ .md-button .md-button--primary }

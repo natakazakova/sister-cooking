@@ -168,12 +168,24 @@ nav:
   #   - pastry/hleb.md
   #   - pastry/pirozhki.md
   #   - pastry/vatrushki.md
-  - Напитки:
-    - drinks/index.md
-    - drinks/coffee.md
-    # - drinks/gluhwein-rot.md
-    # - drinks/gluhwein-weiss.md
-    # - drinks/home-limonade.md
-    # - drinks/tea.md
+  #- Напитки:
+  #  - drinks/index.md
+    # - Главное о кофе:
+    #   - drinks/coffee/index.md
+    #   - drinks/coffee/filter-coffee.md
+    #   - drinks/coffee/jezva-coffee.md
+    #   - drinks/coffee/espresso-drinks.md
+    #   - drinks/coffee/ice-coffee.md
+    # - Главное о чае:
+    #   - drinks/tea/index.md
+    #   - Черный: drinks/tea/black-tea.md
+    #   - Зеленый: drinks/tea/green-tea.md
+    #   - Травяной: drinks/tea/herbal-tea.md
+    #   - Фруктовый: drinks/tea/fruit-tea.md
+    # - Освежающие напитки:
+    #   - drinks/home-limonade.md
+    # - Согревающие напитки:
+    #   - drinks/gluhwein-rot.md
+    #   - drinks/gluhwein-weiss.md
   - Блог:
     - blog/index.md
