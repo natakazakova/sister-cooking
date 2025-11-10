@@ -7,12 +7,6 @@ hide:
 
 <div class="grid cards" markdown>
 
-    - dessert/beze.md
-    - dessert/sharlotka.md
-    - dessert/keks-in-microwave.md
-    - dessert/grafskie-razvaliny.md
-    - dessert/tiramisu.md
-
 -   [Безе](beze.md)
 
     ---
