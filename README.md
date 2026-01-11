@@ -4,4 +4,4 @@
 
 https://sister.cooking/
 
-Сделано на (mkdocs material)[https://squidfunk.github.io/mkdocs-material/).
+Сделано на [mkdocs material](https://squidfunk.github.io/mkdocs-material/).
