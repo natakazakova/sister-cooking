@@ -3,3 +3,5 @@
 Сайт про рецепты от сестры к брату. Когда на готовку не хочется тратить много времени.
 
 https://sister.cooking/
+
+Сделано на (mkdocs material)[https://squidfunk.github.io/mkdocs-material/).
