@@ -147,8 +147,8 @@ nav:
   - Горячее: 
     - main-course/index.md
     - main-course/buckweat-with-carrot-and-onion.md
-    # - main-course/pizza.md
-    # - main-course/khachapuri-na-skovorode.md
+    - main-course/pizza.md
+    - main-course/khachapuri-na-skovorode.md
     - main-course/funchoza-and-chicken.md
   - Закуски: 
     - snacks/index.md

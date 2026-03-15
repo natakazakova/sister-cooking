@@ -4,14 +4,9 @@ hide:
 ---
 # Десерты
 
+В этом разделе ты найдёшь простые и понятные рецепты десертов — от хрустящих безе до уютных пирогов. Готовь по инструкции или импровизируй: добавляй любимые фрукты и начинки, чтобы сделать десерт по‑своему.
 
 <div class="grid cards" markdown>
-
-    - dessert/beze.md
-    - dessert/sharlotka.md
-    - dessert/keks-in-microwave.md
-    - dessert/grafskie-razvaliny.md
-    - dessert/tiramisu.md
 
 -   [Безе](beze.md)
 

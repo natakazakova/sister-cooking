@@ -33,6 +33,12 @@ hide:
 
     [![pashot](images/preview/prev-pashot.jpg)](pashot.md)
 
+-   [Скрэмбл](scrambled-eggs.md)
+
+    ---
+
+    [![pashot](images/preview/prev-no-image.jpg)](scrambled-eggs.md)
+
 </div>
 
 ## Блины и оладьи
