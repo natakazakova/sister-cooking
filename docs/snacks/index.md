@@ -13,6 +13,12 @@ hide:
 
     [![no-image](images/preview/prev-no-image.jpg)](humus.md)
 
+-   [Жареный халуми](halumi.md)
+
+    ---
+
+    [![no-image](images/preview/prev-no-image.jpg)](halumi.md)
+
 -   [Вяленое мясо](vyalenoe-myaso.md)
 
     ---
