@@ -146,10 +146,11 @@ nav:
     # - soups/solyanka.md
   - Горячее: 
     - main-course/index.md
-    - main-course/buckweat-with-carrot-and-onion.md
-    - main-course/pizza.md
     - main-course/khachapuri-na-skovorode.md
+    - main-course/pizza.md
+    - main-course/rice-with-chicken.md
     - main-course/funchoza-and-chicken.md
+    - main-course/buckweat-with-carrot-and-onion.md
   - Закуски: 
     - snacks/index.md
     - snacks/humus.md
