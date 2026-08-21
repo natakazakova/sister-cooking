@@ -20,6 +20,12 @@ hide:
 
     [![pizza](images/preview/prev-pizza.jpg)](pizza.md)
 
+-   [Рис с курицей](rice-with-chicken.md)
+
+    ---
+
+    [![rice](images/preview/prev-rice-with-chicken.jpg)](rice-with-chicken.md)
+
 -   [Фунчоза с курицей](funchoza-and-chicken.md)
 
     ---
