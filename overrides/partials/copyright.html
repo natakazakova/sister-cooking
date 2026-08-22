@@ -1,0 +1,20 @@
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight" id="copyright-notice">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  {% if not config.extra.generator == false %}
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  {% endif %}
+</div>
+<script>
+  const copyrightNotice = document.getElementById("copyright-notice");
+  copyrightNotice.innerHTML = copyrightNotice.innerHTML.replace(
+    /\b\d{4}\b/g,
+    new Date().getFullYear()
+  );
+</script>
